@@ -1,7 +1,8 @@
 {
     "name": "synchronized-video-test",
     "version": "1.0.0",
-    "description": "my first socket.io app",
+    "description": "App for synchronize video in multiple tabs",
+    "author": "Luciano Iglesias Surace <luciano.igsu@gmail.com>",
     "dependencies": {
         "express": "^4.17.1",
         "socket.io": "^2.3.0"
